@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-enz%(qc5yk457_esu^j2^ay^nd7o8gt$%7z&lcg2lm4$=zsy+u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://diary-sa3k.onrender.com', 'localhost', '127.0.0.1:8000', '127.0.0.1']
+ALLOWED_HOSTS = ['https://diary-sa3k.onrender.com', 'localhost', '127.0.0.1:8000', '127.0.0.1',]
 
 
 # Application definition
